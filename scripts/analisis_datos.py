@@ -63,3 +63,9 @@ resumen = pd.DataFrame({
 })
 resumen.to_csv("resultados/resumen_indicadores.csv", index=False)
 print("Resumen exportado en resultados/resumen_indicadores.csv")
+
+# REVISIÓN QA — P3 Luis Apellido
+# Verificaciones realizadas:
+# *Script ejecutable en Google Colab sin dependencias externas
+# *Resultados guardados correctamente en /resultados
+# *Código comentado y comprensible
